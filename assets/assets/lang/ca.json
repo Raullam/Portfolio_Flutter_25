@@ -13,14 +13,30 @@
   "contact_description": "Contacta amb mi mitjançant aquest formulari o a través de xarxes socials.",
   "download_cv": "Descarregar CV",
   "Software_Developer": "Desenvolupador de Software",
+
+  "description_project": "Descripció del projecte",
+
+
   "project_1_title": "Projecte Final de Grau",
   "project_1_description": "Videojoc 2D Multijugador en línia amb Flutter i Firebase i Node.js.",
-  "project_2_title": "Cerador d'Hotels",
+  "project_1_Longdescription": "Tama Plants és una plataforma de videojoc 2D multijugador en línia, dissenyada amb una arquitectura escalable mitjançant Flutter (client), Firebase (autenticació), MySQL (dades estructurades) i Node.js (lògica de servidor). Els usuaris poden adquirir, evolucionar i col·leccionar criatures mentre interactuen dins d’un entorn multijugador persistent. El sistema servidor es divideix en dos mòduls Node.js: un servidor RESTful per a la gestió d’API i un servidor dedicat a la interacció en temps real, optimitzant l’escalabilitat i el rendiment en entorns de producció.",
+
+
+  "project_2_title": "Cercador d'Hotels",
   "project_2_description": "Aplicació en Angular 17 amb arquitectura modular i integració amb JSON Server.",
+  "project_2_Longdescription": "Aplicació web desenvolupada en Angular 17 que permet cercar i filtrar hotels. Utilitza una arquitectura modular per facilitar el manteniment i l'escalabilitat, i s'integra amb JSON Server per simular una API RESTful.",
+
+
   "project_3_title": "Dropshipping amb Shopify",
   "project_3_description": "Botiga de productes per a mascotes.",
-    "project_4_title": "Colecció de NFTs",
+  "project_3_Longdescription": "Botiga en línia de productes per a mascotes creada amb Shopify. Implementa un model de negoci de dropshipping, permetent als clients comprar productes sense necessitat de mantenir inventari propi. La botiga està optimitzada per a una experiència d'usuari fluida i segura.",
+
+
+  "project_4_title": "Colecció de NFTs",
   "project_4_description": "Colecció de NFTs, art digital amb IA.",
+  "project_4_Longdescription": "Colecció de NFTs creada amb tecnologia blockchain. Cada NFT representa una obra d'art digital única, generada mitjançant intel·ligència artificial. Els usuaris poden explorar, comprar i vendre aquestes obres d'art en un mercat descentralitzat.",
+
+
   "view_more": "Veure més",
   "oferta_banner": " Oferta del mes! 10% de descompte en el teu projecte web 🎉",
   "technologies_used": "Tecnologies Utilitzades",
@@ -41,6 +57,10 @@
   "PlaceholerNomError": "Si us plau, introdueix el teu nom",
   "PlaceholerEmailError": "Si us plau, introdueix un correu electrònic vàlid",
   "PlaceholerMissatgeError": "Si us plau, escriu un missatge",
-  "emailnotvalid": "Correu electrònic no vàlid"
+  "emailnotvalid": "Correu electrònic no vàlid",
+  "official_page": "Pàgina Oficial",
+  "view_github": "Veure a GitHub",
+  "panelVerde": "🟢 Actualment es pot semijugar/provar el que podria arribar a ser.\nProva-ho!",
+  "developer": "Desenvolupadors"
 
 }

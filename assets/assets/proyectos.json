@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "slug": "projecte_final_de_grau",
+    "titulo": "context.tr('project_1_title')",
+    "descripcion": "context.tr('project_1_description')",
+    "Longdescripcion": "context.tr('project_1_Longdescription')",
+    "imagen": "assets/projects/tm.png",
+    "imagenDetall": "assets/projects/tmDetall.png",
+    "url": "https://github.com/Raullam/Tama-Plants-Web-2025",
+    "urlOficial": "https://raullam.github.io/Tama-Plants-Web-2025/"
+
+  },
+  {
+    "id": 2,
+    "slug": "Cercador-de-hotels",
+    "titulo": "context.tr('project_2_title')",
+    "descripcion": "context.tr('project_2_description')",
+    "Longdescripcion": "context.tr('project_2_Longdescription')",
+    "imagen": "assets/projects/buscador_de_hoteles_inincial.png",
+    "imagenDetall": "assets/projects/Buscador-de-hoteles.png",
+    "url": "NO"
+  },
+  {
+    "id": 3,
+    "slug": "dropshipping-amb-shopify",
+    "titulo": "context.tr('project_3_title')",
+    "descripcion": "context.tr('project_3_description')",
+    "Longdescripcion": "context.tr('project_3_Longdescription')",
+    "imagen": "assets/projects/al.png",
+    "imagenDetall": "assets/projects/al.png",
+    "url": "NO"
+  },
+  {
+    "id": 4,
+    "slug": "coleccio-de-nfts",
+    "titulo": "context.tr('project_4_title')",
+    "descripcion": "context.tr('project_4_description')",
+    "Longdescripcion": "context.tr('project_4_Longdescription')",
+    "imagen": "assets/projects/rannn.png",
+    "imagenDetall": "assets/projects/Rulox_arts_NFT.png",
+    "url": "NO"
+  }
+]

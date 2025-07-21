@@ -14,14 +14,28 @@
   "contact_description": "Get in touch with me through this form or on social media.",
   "download_cv": "Download CV",
   "Software_Developer": "Software Developer",
+
+  "description_project": "Project Description",
+
   "project_1_title": "Final Degree Project",
   "project_1_description": "2D Multiplayer Online Game with Flutter, Firebase and Node.js.",
+  "project_1_Longdescription": "Tama Plants is a 2D online multiplayer game platform designed with a scalable architecture using Flutter (client), Firebase (authentication), MySQL (structured data), and Node.js (server logic). Players can acquire, evolve, and collect creatures while interacting within a persistent multiplayer environment. The backend is divided into two Node.js modules: a RESTful API server and a dedicated server for real-time gameplay, optimizing scalability and performance in production environments.",
+
+
   "project_2_title": "Hotel Search Engine",
   "project_2_description": "Angular 17 application with modular architecture and integration with JSON Server.",
+  "project_2_Longdescription": "Web application developed in Angular 17 that allows searching and filtering hotels. It uses a modular architecture to facilitate maintenance and scalability, and integrates with JSON Server to simulate a RESTful API.",
+
   "project_3_title": "Dropshipping with Shopify",
   "project_3_description": "Pet products store.",
-    "project_4_title": "NFT Collection",
+  "project_3_Longdescription": "Online pet products store created with Shopify. It implements a dropshipping business model, allowing customers to purchase products without the need to maintain their own inventory. The store is optimized for a smooth and secure user experience.",
+
+
+  "project_4_title": "NFT Collection",
   "project_4_description": "NFT collection, digital art with AI.",
+  "project_4_Longdescription": "NFT collection created using blockchain technology. Each NFT represents a unique piece of digital art, generated using artificial intelligence. Users can explore, buy and sell these artworks in a decentralized marketplace.",
+
+
   "view_more": "View more",
   "oferta_banner": " Monthly Offer! 10% discount on your web project 🎉",
   "technologies_used": "Technologies Used",
@@ -42,7 +56,11 @@
   "PlaceholerNomError": "Please enter your name",
   "PlaceholerEmailError": "Please enter a valid email",
   "PlaceholerMissatgeError": "Please write a message",
-  "emailnotvalid": "Invalid email"
+  "emailnotvalid": "Invalid email",
+  "official_page": "Official Page",
+  "view_github": "View on GitHub",
+  "panelVerde": "🟢 Currently, you can semi-play/test what it could become.\nTry it out!",
+  "developer": "Developers"
 
 
 }

@@ -13,14 +13,24 @@
   "contact_description": "Ponte en contacto conmigo a través de este formulario o por redes sociales.",
     "download_cv": "Descargar CV",
     "Software_Developer": "Desarrollador de Software",
+  "description_project": "Descripción del proyecto",
+
   "project_1_title": "Proyecto Final de Grado",
   "project_1_description": "Videojuego 2D Multijugador en Línea con Flutter, Firebase y Node.js.",
+  "project_1_Longdescription": "Tama Plants es una plataforma de videojuego 2D multijugador en línea, diseñada con una arquitectura escalable mediante Flutter (cliente), Firebase (autenticación), MySQL (datos estructurados) y Node.js (lógica del servidor). Los usuarios pueden adquirir, evolucionar y coleccionar criaturas mientras interactúan en un entorno multijugador persistente. El sistema del servidor está dividido en dos módulos de Node.js: un servidor RESTful para la gestión de API y otro dedicado a la interacción en tiempo real, optimizando la escalabilidad y el rendimiento en entornos de producción.",
+
   "project_2_title": "Buscador de Hoteles ",
   "project_2_description": "Aplicación en Angular 17 con arquitectura modular e integración con JSON Server.",
+  "project_2_Longdescription": "Aplicación web desarrollada en Angular 17 que permite buscar y filtrar hoteles. Utiliza una arquitectura modular para facilitar el mantenimiento y la escalabilidad, y se integra con JSON Server para simular una API RESTful.",
+
   "project_3_title": "Dropshipping con Shopify",
   "project_3_description": "Tienda de productos para mascotas.",
+  "project_3_Longdescription": "Tienda en línea de productos para mascotas creada con Shopify. Implementa un modelo de negocio de dropshipping, permitiendo a los clientes comprar productos sin necesidad de mantener inventario propio. La tienda está optimizada para una experiencia de usuario fluida y segura.",
+
   "project_4_title": "Colección de NFTs",
   "project_4_description": "Colección de NFTs, arte digital con IA.",
+  "project_4_Longdescription": "Colección de arte digital en formato NFT, creada utilizando inteligencia artificial. Cada NFT es una pieza única que combina creatividad y tecnología, ofreciendo a los coleccionistas una forma innovadora de poseer arte digital.",
+
   "view_more": "Ver más",
   "oferta_banner": " ¡Oferta del mes! 10% de descuento en tu proyecto web 🎉",
   "technologies_used": "Tecnologías Utilizadas",
@@ -41,6 +51,10 @@
   "PlaceholerNomError": "Por favor, introduce tu nombre",
   "PlaceholerEmailError": "Por favor, introduce un correo electrónico válido",
   "PlaceholerMissatgeError": "Por favor, escribe un mensaje",
-  "emailnotvalid": "Correo electrónico no válido"
+  "emailnotvalid": "Correo electrónico no válido",
+  "official_page": "Página Oficial",
+  "view_github": "Ver en GitHub",
+  "panelVerde": "🟢 Actualmente se puede semijugar/probar lo que podría llegar a ser.\n¡Pruébalo!",
+  "developer": "Desarrolladores"
 
 }
