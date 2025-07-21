@@ -18,13 +18,13 @@
 
 
   "project_1_title": "Projecte Final de Grau",
-  "project_1_description": "Videojoc 2D Multijugador en línia amb Flutter i Firebase i Node.js.",
+  "project_1_description": "Videojoc 2D Multijugador en línia amb Flutter, Firebase, MySQL i Node.js.",
   "project_1_Longdescription": "Tama Plants és una plataforma de videojoc 2D multijugador en línia, dissenyada amb una arquitectura escalable mitjançant Flutter (client), Firebase (autenticació), MySQL (dades estructurades) i Node.js (lògica de servidor). Els usuaris poden adquirir, evolucionar i col·leccionar criatures mentre interactuen dins d’un entorn multijugador persistent. El sistema servidor es divideix en dos mòduls Node.js: un servidor RESTful per a la gestió d’API i un servidor dedicat a la interacció en temps real, optimitzant l’escalabilitat i el rendiment en entorns de producció.",
 
 
   "project_2_title": "Cercador d'Hotels",
   "project_2_description": "Aplicació en Angular 17 amb arquitectura modular i integració amb JSON Server.",
-  "project_2_Longdescription": "Aplicació web desenvolupada en Angular 17 que permet cercar i filtrar hotels. Utilitza una arquitectura modular per facilitar el manteniment i l'escalabilitat, i s'integra amb JSON Server per simular una API RESTful.",
+"project_2_Longdescription": "Aplicació web amb Angular per a la gestió i filtratge d'una llista d'hotels, oferint una experiència d'usuari interactiva i eficient. L'aplicació permet cercar hotels per nom (cerca parcial tipus 'contain'), filtrar per categoria (d'1 a 5 estrelles mitjançant checkboxes), valoració (rang de 0 a 5 amb un input tipus range) i preu (rang de 50€ a 1000€). He implementat una paginació senzilla per navegar pels resultats, optimitzant l'experiència amb grans conjunts de dades.\nLa interfície, dissenyada amb [Bootstrap/Tailwind CSS], és clara, responsiva i amigable, assegurant una navegació intuïtiva. He utilitzat Angular 17, aprofitant les seves característiques modernes com components standalone i senyals (signals) per a una gestió eficient de l'estat. Les dades es consumeixen des d'una API REST simulada amb json-server, basada en un fitxer db.json generat amb faker-js per poblar hotels amb informació realista (id, nom, imatge, adreça, estrelles, valoració i preu).\nEl projecte inclou una arquitectura modular i neta, amb serveis per a la gestió de dades i components reutilitzables. Opcionalment, he incorporat proves unitaries amb Jasmine/Karma per garantir la robustesa dels components i serveis. Aquest desenvolupament destaca la meva capacitat per construir aplicacions web modernes, escalables i ben estructurades, combinant un frontend robust amb una API simulada i un disseny centrat en l'usuari.",
 
 
   "project_3_title": "Dropshipping amb Shopify",
@@ -34,7 +34,7 @@
 
   "project_4_title": "Colecció de NFTs",
   "project_4_description": "Colecció de NFTs, art digital amb IA.",
-  "project_4_Longdescription": "Colecció de NFTs creada amb tecnologia blockchain. Cada NFT representa una obra d'art digital única, generada mitjançant intel·ligència artificial. Els usuaris poden explorar, comprar i vendre aquestes obres d'art en un mercat descentralitzat.",
+  "project_4_Longdescription": "He desenvolupat un mercat descentralitzat d’NFTs utilitzant React, Solidity i CometChat, que permet als usuaris crear, comprar i vendre actius digitals únics a la blockchain d’Ethereum (xarxa de prova Rinkeby). La interfície, construïda amb React i estilitzada amb Tailwind CSS, ofereix una experiència d’usuari responsiva i intuïtiva. Els contractes intel·ligents en Solidity, basats en l’estàndard ERC721 i llibreries d’OpenZeppelin, garanteixen la creació, gestió i transaccions segures d’NFTs, amb Hardhat per a proves i desplegament. La integració amb MetaMask facilita la connexió amb carteres, i Infura assegura l’accés a la blockchain via WebSocket. Una funcionalitat destacada és el xat en temps real amb CometChat SDK, que permet comunicació directa entre compradors i venedors. La gestió d’estat s’optimitza amb react-hooks-global-state. Aquest projecte demostra la meva expertesa en desenvolupament Web3 full-stack, combinant blockchain, front-end modern i comunicació en temps real.",
 
 
   "view_more": "Veure més",

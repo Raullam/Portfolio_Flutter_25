@@ -18,13 +18,13 @@
   "description_project": "Project Description",
 
   "project_1_title": "Final Degree Project",
-  "project_1_description": "2D Multiplayer Online Game with Flutter, Firebase and Node.js.",
+  "project_1_description": "2D Multiplayer Online Game with Flutter, Firebasem, MySQL and Node.js.",
   "project_1_Longdescription": "Tama Plants is a 2D online multiplayer game platform designed with a scalable architecture using Flutter (client), Firebase (authentication), MySQL (structured data), and Node.js (server logic). Players can acquire, evolve, and collect creatures while interacting within a persistent multiplayer environment. The backend is divided into two Node.js modules: a RESTful API server and a dedicated server for real-time gameplay, optimizing scalability and performance in production environments.",
 
 
   "project_2_title": "Hotel Search Engine",
   "project_2_description": "Angular 17 application with modular architecture and integration with JSON Server.",
-  "project_2_Longdescription": "Web application developed in Angular 17 that allows searching and filtering hotels. It uses a modular architecture to facilitate maintenance and scalability, and integrates with JSON Server to simulate a RESTful API.",
+"project_2_Longdescription": "Web application in Angular for managing and filtering a list of hotels, providing an interactive and efficient user experience. The application allows users to search hotels by name (partial \"contain\" search), filter by category (1 to 5 stars using checkboxes), rating (range from 0 to 5 with a range input), and price (range from €50 to €1000). I implemented simple pagination to navigate through results, optimizing the experience for large datasets.\n\nThe interface, styled with [Bootstrap/Tailwind CSS], is clear, responsive, and user-friendly, ensuring intuitive navigation. I used Angular 17, leveraging its modern features like standalone components and signals for efficient state management. Data is consumed from a mock REST API powered by json-server, based on a db.json file generated with faker-js to populate hotels with realistic data (id, name, image, address, stars, rating, and price).\n\nThe project features a modular and clean architecture, with services for data management and reusable components. Optionally, I included unit tests with Jasmine/Karma to ensure the robustness of components and services. This development showcases my ability to build modern, scalable, and well-structured web applications, combining a robust frontend with a mock API and a user-centric design.",
 
   "project_3_title": "Dropshipping with Shopify",
   "project_3_description": "Pet products store.",
@@ -33,7 +33,7 @@
 
   "project_4_title": "NFT Collection",
   "project_4_description": "NFT collection, digital art with AI.",
-  "project_4_Longdescription": "NFT collection created using blockchain technology. Each NFT represents a unique piece of digital art, generated using artificial intelligence. Users can explore, buy and sell these artworks in a decentralized marketplace.",
+  "project_4_Longdescription": "I developed a decentralized NFT marketplace using React, Solidity, and CometChat, enabling users to mint, buy, and sell unique digital assets on the Ethereum blockchain (Rinkeby test network). The front-end, built with React and styled with Tailwind CSS, delivers a responsive and intuitive user interface for browsing, creating, and managing NFTs. Solidity smart contracts, leveraging the ERC721 standard and OpenZeppelin libraries, handle secure NFT minting, ownership tracking, and transactions, with Hardhat used for local testing and deployment. Integration with MetaMask ensures seamless wallet connectivity, while Infura provides reliable blockchain access via WebSocket endpoints. A key feature is the real-time chat functionality powered by CometChat SDK, allowing buyers and sellers to communicate directly within the platform. State management is streamlined using the react-hooks-global-state library, simplifying global data handling compared to Redux. This project showcases my expertise in full-stack Web3 development, combining blockchain technology, modern front-end frameworks, and real-time communication to create a secure, scalable, and user-friendly decentralized application.",
 
 
   "view_more": "View more",

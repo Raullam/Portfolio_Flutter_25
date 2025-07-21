@@ -16,12 +16,12 @@
   "description_project": "Descripción del proyecto",
 
   "project_1_title": "Proyecto Final de Grado",
-  "project_1_description": "Videojuego 2D Multijugador en Línea con Flutter, Firebase y Node.js.",
+  "project_1_description": "Videojuego 2D Multijugador en Línea con Flutter, Firebase, MySQL y Node.js.",
   "project_1_Longdescription": "Tama Plants es una plataforma de videojuego 2D multijugador en línea, diseñada con una arquitectura escalable mediante Flutter (cliente), Firebase (autenticación), MySQL (datos estructurados) y Node.js (lógica del servidor). Los usuarios pueden adquirir, evolucionar y coleccionar criaturas mientras interactúan en un entorno multijugador persistente. El sistema del servidor está dividido en dos módulos de Node.js: un servidor RESTful para la gestión de API y otro dedicado a la interacción en tiempo real, optimizando la escalabilidad y el rendimiento en entornos de producción.",
 
-  "project_2_title": "Buscador de Hoteles ",
-  "project_2_description": "Aplicación en Angular 17 con arquitectura modular e integración con JSON Server.",
-  "project_2_Longdescription": "Aplicación web desarrollada en Angular 17 que permite buscar y filtrar hoteles. Utiliza una arquitectura modular para facilitar el mantenimiento y la escalabilidad, y se integra con JSON Server para simular una API RESTful.",
+"project_2_title": "Buscador de Hoteles ",
+"project_2_description": "Aplicación en Angular 17 con arquitectura modular e integración con JSON Server.",
+"project_2_Longdescription": "Aplicación web en Angular para la gestión y filtrado de un listado de hoteles, ofreciendo una experiencia de usuario interactiva y eficiente. La aplicación permite buscar hoteles por nombre (búsqueda parcial tipo 'contain'), filtrar por categoría (1 a 5 estrellas mediante checkboxes), valoración (rango de 0 a 5 con un input tipo range) y precio (rango de 50€ a 1000€). Implementé una paginación sencilla para navegar por los resultados, optimizando la experiencia en grandes conjuntos de datos.\n\nLa interfaz, diseñada con [Bootstrap/Tailwind CSS], es clara, responsiva y amigable, asegurando una navegación intuitiva. Utilicé Angular 17, aprovechando sus características modernas como componentes standalone y señales (signals) para una gestión eficiente del estado. Los datos se consumen desde una API REST simulada con json-server, basada en un archivo db.json generado con faker-js para poblar hoteles con información realista (id, nombre, imagen, dirección, estrellas, valoración y precio).\n\nEl proyecto incluye una arquitectura modular y limpia, con servicios para la gestión de datos y componentes reutilizables. Opcionalmente, incorporé pruebas unitarias con Jasmine/Karma para garantizar la robustez de los componentes y servicios. Este desarrollo destaca mi capacidad para construir aplicaciones web modernas, escalables y bien estructuradas, combinando un frontend robusto con una API simulada y un diseño centrado en el usuario.",
 
   "project_3_title": "Dropshipping con Shopify",
   "project_3_description": "Tienda de productos para mascotas.",
@@ -29,7 +29,7 @@
 
   "project_4_title": "Colección de NFTs",
   "project_4_description": "Colección de NFTs, arte digital con IA.",
-  "project_4_Longdescription": "Colección de arte digital en formato NFT, creada utilizando inteligencia artificial. Cada NFT es una pieza única que combina creatividad y tecnología, ofreciendo a los coleccionistas una forma innovadora de poseer arte digital.",
+  "project_4_Longdescription": "Desarrollé un mercado descentralizado de NFTs utilizando React, Solidity y CometChat, que permite a los usuarios crear, comprar y vender activos digitales únicos en la blockchain de Ethereum (red de prueba Rinkeby). La interfaz, construida con React y estilizada con Tailwind CSS, ofrece una experiencia de usuario responsiva e intuitiva. Los contratos inteligentes en Solidity, basados en el estándar ERC721 y librerías de OpenZeppelin, gestionan la creación, propiedad y transacciones seguras de NFTs, con Hardhat para pruebas y despliegue. La integración con MetaMask facilita la conexión con monederos, e Infura proporciona acceso confiable a la blockchain mediante WebSocket. Una característica clave es el chat en tiempo real con CometChat SDK, que permite comunicación directa entre compradores y vendedores. La gestión de estado se optimiza con react-hooks-global-state. Este proyecto destaca mi experiencia en desarrollo Web3 full-stack, combinando blockchain, front-end moderno y comunicación en tiempo real.",
 
   "view_more": "Ver más",
   "oferta_banner": " ¡Oferta del mes! 10% de descuento en tu proyecto web 🎉",
