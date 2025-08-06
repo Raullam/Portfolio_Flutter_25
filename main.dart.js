@@ -89210,7 +89210,7 @@ wZ(a){return this.a6_(a)},
 a6_(a){var s=0,r=A.P(t.H),q=1,p,o,n,m,l
 var $async$wZ=A.L(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
-o=A.dK("assets/cv/CV_Raul_lama_08-2025.pdf",0,null)
+o=A.dK("https://raullam.github.io/Portfolio_Flutter_25/assets/assets/cv/CV_Raul_lama_08-2025.pdf",0,null)
 s=6
 return A.Q(A.pe(o,B.Uh),$async$wZ)
 case 6:q=1
