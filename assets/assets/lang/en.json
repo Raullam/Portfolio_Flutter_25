@@ -1,0 +1,66 @@
+{
+  "title": "Hi, I'm Raül",
+  "home": "Home",
+    "home_description": "Full Stack Especialist in Flutter, React i Node.js",
+
+    "experience": "Experience",
+  "skills": "Skills",
+
+  "about": "About Me",
+  "about_description": "I'm a developer passionate about Flutter and modern technologies.",
+  "projects": "Projects",
+  "projects_description": "Here you can see some of my recent projects.",
+  "contact": "Contact",
+  "contact_description": "Get in touch with me through this form or on social media.",
+  "download_cv": "Download CV",
+  "Software_Developer": "Software Developer",
+
+  "description_project": "Project Description",
+
+  "project_1_title": "Final Degree Project",
+  "project_1_description": "2D Multiplayer Online Game with Flutter, Firebasem, MySQL and Node.js.",
+  "project_1_Longdescription": "Tama Plants is a 2D online multiplayer game platform developed as a final degree project, combining multiple technologies and professional development practices.\n\nThe app is built using Flutter for the client, Node.js and Express for server logic, Firebase for authentication, and MySQL for structured data storage. The backend is split into two main modules: a RESTful API and a dedicated server for real-time gameplay, optimizing performance and scalability in production environments.\n\nPlayers can collect, evolve, and battle with creatures categorized by type and rarity. Gameplay mechanics include a single-player mode with virtual currency (btc), real-time PVP battles, and a creature evolution system.\n\nDuring development, tools like Swagger were used for API documentation, JWT for secure authentication, and cloud services like Railway for continuous and free deployment of databases and servers. Future enhancements consider technologies such as Redis, Kafka, Kubernetes, and Prometheus with Grafana to improve scalability and monitoring.\n\nThe project was built using an agile, iterative methodology that enabled constant testing, improvement, and user experience refinement. Significant work was done in UI design, cross-platform adaptability (Android, iOS, Web), and custom visual asset generation.\n\nTama Plants has been a deep technical and personal learning experience, facing real full-stack development challenges—from system architecture to performance optimization—while building a scalable and maintainable product vision.",
+
+
+  "project_2_title": "Hotel Search Engine",
+  "project_2_description": "Angular 17 application with modular architecture and integration with JSON Server.",
+"project_2_Longdescription": "Web application in Angular for managing and filtering a list of hotels, providing an interactive and efficient user experience. The application allows users to search hotels by name (partial \"contain\" search), filter by category (1 to 5 stars using checkboxes), rating (range from 0 to 5 with a range input), and price (range from €50 to €1000). I implemented simple pagination to navigate through results, optimizing the experience for large datasets.\n\nThe interface, styled with [Bootstrap/Tailwind CSS], is clear, responsive, and user-friendly, ensuring intuitive navigation. I used Angular 17, leveraging its modern features like standalone components and signals for efficient state management. Data is consumed from a mock REST API powered by json-server, based on a db.json file generated with faker-js to populate hotels with realistic data (id, name, image, address, stars, rating, and price).\n\nThe project features a modular and clean architecture, with services for data management and reusable components. Optionally, I included unit tests with Jasmine/Karma to ensure the robustness of components and services. This development showcases my ability to build modern, scalable, and well-structured web applications, combining a robust frontend with a mock API and a user-centric design.",
+
+  "project_3_title": "Dropshipping with Shopify",
+  "project_3_description": "Pet products store.",
+  "project_3_Longdescription": "Creation of an online pet products store with Shopify\n\nComplete design and development of an online store specialized in pet products, built using the Shopify platform. The project follows a dropshipping business model, allowing the sale of products without the need to manage inventory, thereby optimizing resources and reducing logistics costs.\n\nThe store is optimized to offer a smooth, secure, and responsive user experience, with an attractive and functional design adapted to all types of devices. Best UX/UI practices were applied, with a conversion-oriented visual approach: intuitive navigation, detailed product pages, secure checkout processes, and integration with efficient shipping methods.\n\nDigital marketing tools were also implemented, such as email capture pop-ups, discount coupons, and integration with social media to increase brand visibility. On a technical level, Shopify themes were customized using Liquid, CSS, and JavaScript to tailor the aesthetics and functionalities to the specific needs of the project.\n\nThis project demonstrates my ability to create complete, functional e-commerce solutions focused on business growth.",
+
+
+  "project_4_title": "NFT Collection",
+  "project_4_description": "NFT collection, digital art with AI.",
+  "project_4_Longdescription": "I developed a decentralized NFT marketplace using React, Solidity, and CometChat, enabling users to mint, buy, and sell unique digital assets on the Ethereum blockchain (Rinkeby test network). \n\nThe front-end, built with React and styled with Tailwind CSS, delivers a responsive and intuitive user interface for browsing, creating, and managing NFTs. \n\nSolidity smart contracts, leveraging the ERC721 standard and OpenZeppelin libraries, handle secure NFT minting, ownership tracking, and transactions, with Hardhat used for local testing and deployment. \n\nIntegration with MetaMask ensures seamless wallet connectivity, while Infura provides reliable blockchain access via WebSocket endpoints. A key feature is the real-time chat functionality powered by CometChat SDK, allowing buyers and sellers to communicate directly within the platform. \n\nState management is streamlined using the react-hooks-global-state library, simplifying global data handling compared to Redux. This project showcases my expertise in full-stack Web3 development, combining blockchain technology, modern front-end frameworks, and real-time communication to create a secure, scalable, and user-friendly decentralized application.",
+
+
+  "view_more": "View more",
+  "oferta_banner": " Monthly Offer! 10% discount on your web project 🎉",
+  "technologies_used": "Technologies Used",
+   "experiencia_section_title": "Experience",
+  "tituloExp1": "Looking for a new opportunity",
+  "empresaExp1": "For a new adventure",
+  "descripcionExp1": "The search for a new professional opportunity is an exciting journey. I'm ready to take on new challenges and contribute with my experience in software development.",
+  "tituloExp2": "Flutter and React Web Developer",
+  "descripcionExp2": "Design and development of a hexagonal architecture using React, TypeScript, Node.js and MongoDB. Implemented scalable and secure solutions.",
+  "tituloExp3": "Higher Degree in Multiplatform Application Development",
+  "descripcionExp3": "Training in multiplatform application development, including Flutter, React and Node.js. Learned agile methodologies, software architectures, and best development practices.",
+   "skillstitle": "Skills and Technologies",
+  "contact_address": "Palma de Mallorca, Balearic Islands. Spain",
+  "PlaceholderNom": "Name",
+  "PlaceholderEmail": "Email",
+  "PlaceholderMissatge": "Message",
+  "PlaceholderEnviar": "Send",
+  "PlaceholerNomError": "Please enter your name",
+  "PlaceholerEmailError": "Please enter a valid email",
+  "PlaceholerMissatgeError": "Please write a message",
+  "emailnotvalid": "Invalid email",
+  "official_page": "Official Page",
+  "view_github": "View on GitHub",
+  "panelVerde": "🟢 Currently, you can semi-play/test what it could become.\nTry it out!",
+  "developer": "Developers"
+
+
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Hola, sóc en Raül",
+  "home": "Inici",
+  "home_description": "Especialista Full Stack en Flutter, React i Node.js",
+  "experience": "Experiencia",
+  "skills": "Habilitats",
+
+  "about": "Sobre mi",
+  "about_description": "Sóc un desenvolupador apassionat per Flutter i les tecnologies modernes.",
+  "projects": "Projectes",
+  "projects_description": "Aquí pots veure alguns dels meus projectes recents.",
+  "contact": "Contacte",
+  "contact_description": "Contacta amb mi mitjançant aquest formulari o a través de xarxes socials.",
+  "download_cv": "Descarregar CV",
+  "Software_Developer": "Desenvolupador de Software",
+
+  "description_project": "Descripció del projecte",
+
+
+  "project_1_title": "Projecte Final de Grau",
+  "project_1_description": "Videojoc 2D Multijugador en línia amb Flutter, Firebase, MySQL i Node.js.",
+  "project_1_Longdescription": "Tama Plants és un videojoc multijugador i multiplataforma en línia, desenvolupat com a projecte final de cicle formatiu, on vaig obtenir un 10 de nota.\n\nL’aplicació està construïda amb Flutter per al client, Node.js i Express per al backend, Firebase per a l’autenticació amb correus Gmail i MySQL per a l’emmagatzematge de dades. \n\nEl backend es divideix en dos mòduls principals: una API REST i un servidor dedicat al joc en temps real, optimitzant el rendiment i l’escalabilitat.\n\n Els jugadors poden col·leccionar, millorar i combatre amb criatures d'altres jugadors. Les mecàniques del joc inclouen un mode individual i un en linia, en el joc en linia els combats PVP son en temps real. Et convido a provar-lo, encara que es pot jugar no esta acabat. \n\nComentar tambe que durant el desenvolupament també es varen fer servir eines com Swagger per a la documentació d’APIs, JWT per a una autenticació segura, Postman per a proves de l'API i serveis al núvol com Railway per al desplegament continu de bases de dades i servidors de forma gratuïta. També s’ha utilitzat Cloudinary per gestionar i optimitzar els recursos visuals del joc, com ara imatges i vídeos. Es va contemplar la integració de millores futures amb tecnologies com Redis, Kafka, Kubernetes i Prometheus amb Grafana per a escalar i monitoritzar el sistema.\n\nEl projecte ha seguit una metodologia àgil i iterativa, que ha permès provar, corregir i millorar l’experiència d’usuari de manera constant. S’ha treballat intensament en el disseny d’interfícies, l’adaptabilitat multiplataforma (Android, iOS i Web) i la generació de recursos visuals propis.\n\nTama Plants ha representat una gran oportunitat de creixement tècnic i personal, enfrontant reptes reals de desenvolupament complet, des de l’arquitectura del sistema fins a l’optimització del rendiment, amb una visió de producte escalable i mantenible",
+
+
+  "project_2_title": "Cercador d'Hotels",
+  "project_2_description": "Aplicació en Angular 17 amb arquitectura modular i integració amb JSON Server.",
+"project_2_Longdescription": "Aplicació web amb Angular per a la gestió i filtratge d'una llista d'hotels, oferint una experiència d'usuari interactiva i eficient. L'aplicació permet cercar hotels per nom (cerca parcial tipus 'contain'), filtrar per categoria (d'1 a 5 estrelles mitjançant checkboxes), valoració (rang de 0 a 5 amb un input tipus range) i preu (rang de 50€ a 1000€). He implementat una paginació senzilla per navegar pels resultats, optimitzant l'experiència amb grans conjunts de dades.\n\nLa interfície, dissenyada amb [Bootstrap/Tailwind CSS], és clara, responsiva i amigable, assegurant una navegació intuïtiva. He utilitzat Angular 17, aprofitant les seves característiques modernes com components standalone i senyals (signals) per a una gestió eficient de l'estat. Les dades es consumeixen des d'una API REST simulada amb json-server, basada en un fitxer db.json generat amb faker-js per poblar hotels amb informació realista (id, nom, imatge, adreça, estrelles, valoració i preu).\n\nEl projecte inclou una arquitectura modular i neta, amb serveis per a la gestió de dades i components reutilitzables. Opcionalment, he incorporat proves unitaries amb Jasmine/Karma per garantir la robustesa dels components i serveis. Aquest desenvolupament destaca la meva capacitat per construir aplicacions web modernes, escalables i ben estructurades, combinant un frontend robust amb una API simulada i un disseny centrat en l'usuari.",
+
+
+  "project_3_title": "Dropshipping amb Shopify",
+  "project_3_description": "Botiga de productes per a mascotes.",
+  "project_3_Longdescription": "Creació d’una botiga en línia de productes per a mascotes amb Shopify\n\nDisseny i desenvolupament complet d’una botiga en línia especialitzada en productes per a mascotes, implementada a través de la plataforma Shopify. El projecte segueix un model de negoci de dropshipping, que permet vendre productes sense necessitat de gestionar inventari propi, optimitzant així els recursos i reduint costos logístics.\n\nLa botiga està optimitzada per oferir una experiència d’usuari fluida, segura i responsive, amb un disseny atractiu i funcional adaptat a tot tipus de dispositius. Es van aplicar bones pràctiques de UX/UI, amb un enfocament visual orientat a la conversió: navegació intuïtiva, fitxes de producte detallades, passarel·les de pagament segures i integració amb mètodes d’enviament eficients.\n\nTambé s’hi van implementar eines de màrqueting digital com pop-ups de captació de correus electrònics, cupons de descompte i integració amb xarxes socials per millorar la visibilitat de la marca. A nivell tècnic, es van personalitzar temes de Shopify mitjançant Liquid, CSS i JavaScript, per adaptar l’estètica i les funcionalitats a les necessitats específiques del projecte.\n\nAquest projecte reflecteix la meva capacitat per crear solucions e-commerce completes, funcionals i orientades al creixement de negoci.",
+
+
+  "project_4_title": "Colecció de NFTs",
+  "project_4_description": "Colecció de NFTs, art digital amb IA.",
+  "project_4_Longdescription": "He desenvolupat un mercat descentralitzat d’NFTs utilitzant React, Solidity i CometChat, que permet als usuaris crear, comprar i vendre actius digitals únics a la blockchain d’Ethereum (xarxa de prova Rinkeby). \n\nLa interfície, construïda amb React i estilitzada amb Tailwind CSS, ofereix una experiència d’usuari responsiva i intuïtiva. \n\nEls contractes intel·ligents en Solidity, basats en l’estàndard ERC721 i llibreries d’OpenZeppelin, garanteixen la creació, gestió i transaccions segures d’NFTs, amb Hardhat per a proves i desplegament. \n\nLa integració amb MetaMask facilita la connexió amb carteres, i Infura assegura l’accés a la blockchain via WebSocket. Una funcionalitat destacada és el xat en temps real amb CometChat SDK, que permet comunicació directa entre compradors i venedors. \n\nLa gestió d’estat s’optimitza amb react-hooks-global-state. Aquest projecte demostra la meva expertesa en desenvolupament Web3 full-stack, combinant blockchain, front-end modern i comunicació en temps real.",
+
+
+  "view_more": "Veure més",
+  "oferta_banner": " Oferta del mes! 10% de descompte en el teu projecte web 🎉",
+  "technologies_used": "Tecnologies Utilitzades",
+  "experiencia_section_title": "Experiència",
+  "tituloExp1": "Esperant una nova oportunitat",
+  "empresaExp1": "Per a una nova aventura",
+  "descripcionExp1": "La cerca d'una nova oportunitat professional és un viatge emocionant. Estic preparat per afrontar nous reptes i contribuir amb la meva experiència en desenvolupament de programari.",
+  "tituloExp2": "Desenvolupador web amb Flutter i React",
+  "descripcionExp2": "Disseny i desenvolupament de l'arquitectura hexagonal utilitzant React, TypeScript, Node.js i MongoDB. Vaig implementar solucions escalables i segures.",
+  "tituloExp3": "Grau superior en Desenvolupament d'Aplicacions Multiplataforma",
+  "descripcionExp3": "Formació en desenvolupament d'aplicacions multiplataforma, incloent-hi Flutter, React i Node.js. Aprenentatge de metodologies àgils, arquitectures de programari i bones pràctiques de desenvolupament.",
+   "skillstitle": "Habilitats i Tecnologies",
+  "contact_address": "Palma de Mallorca, Illes Balears. Espanya",
+  "PlaceholderNom": "Nom",
+  "PlaceholderEmail": "Correu electrònic",
+  "PlaceholderMissatge": "Missatge",
+  "PlaceholderEnviar": "Enviar",
+  "PlaceholerNomError": "Si us plau, introdueix el teu nom",
+  "PlaceholerEmailError": "Si us plau, introdueix un correu electrònic vàlid",
+  "PlaceholerMissatgeError": "Si us plau, escriu un missatge",
+  "emailnotvalid": "Correu electrònic no vàlid",
+  "official_page": "Pàgina Oficial",
+  "view_github": "Veure a GitHub",
+  "panelVerde": "🟢 Actualment es pot semijugar/provar el que podria arribar a ser.\nProva-ho!",
+  "developer": "Desenvolupadors"
+
+}
