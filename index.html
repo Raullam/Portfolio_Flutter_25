@@ -36,6 +36,25 @@
     <link rel="manifest" href="manifest.json" />
   </head>
   <body>
-    <script src="flutter_bootstrap.js" async></script>
+      <!-- Loader Spinner -->
+      <div id="custom-loader" style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:#181818;z-index:9999;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+        <div style="margin-bottom:24px;">
+          <img src="assets/imagen_raul/foto_perfil.jpeg" alt="Raül Lama" style="width:80px;height:80px;border-radius:50%;object-fit:cover;box-shadow:0 0 16px #fff2;" onerror="this.style.display='none'" />
+        </div>
+        <div style="width:48px;height:48px;border:6px solid #fff;border-top:6px solid #a020f0;border-radius:50%;animation:spin 1s linear infinite;"></div>
+        <div style="color:#fff;font-family:Poppins,sans-serif;font-size:18px;margin-top:24px;letter-spacing:1px;">Cargando...</div>
+      </div>
+      <script>
+        // Spinner animation
+        var style = document.createElement('style');
+        style.innerHTML = '@keyframes spin{0%{transform:rotate(0deg);}100%{transform:rotate(360deg);}}';
+        document.head.appendChild(style);
+        // Ocultar loader cuando Flutter inicialice
+        window.addEventListener('flutter-first-frame', function() {
+          var loader = document.getElementById('custom-loader');
+          if(loader) loader.style.display = 'none';
+        });
+      </script>
+      <script src="flutter_bootstrap.js" async></script>
   </body>
 </html>
