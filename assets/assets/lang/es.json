@@ -1,4 +1,10 @@
 {
+  "Lenguajes": "Lenguajes",
+  "Frameworks": "Frameworks",
+  "Bases de datos": "Bases de datos",
+  "Control de versiones": "Control de versiones",
+  "Diseño": "Diseño",
+  "Test / Pruebas unitarias": "Test / Pruebas unitarias",
   "title": "Hola, soy Raül",
   "home": "Inicio",
   "home_description": "Especialista Full Stack en Flutter, React y Node.js",
