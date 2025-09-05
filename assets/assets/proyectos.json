@@ -5,7 +5,7 @@
     "titulo": "context.tr('project_1_title')",
     "descripcion": "context.tr('project_1_description')",
     "Longdescripcion": "context.tr('project_1_Longdescription')",
-    "imagen": "assets/projects/tm.png",
+    "imagen": "assets/projects/tm1.png",
     "imagenDetall": "assets/projects/tmDetall.png",
     "url": "https://github.com/Raullam/Tama-Plants-Web-2025",
     "urlOficial": "https://raullam.github.io/Tama-Plants-Web-2025/"
