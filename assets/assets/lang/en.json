@@ -69,7 +69,7 @@
   "developer": "Developers",
   "accept_policies": "I have read and accept the privacy policies",
   "accept_policies_part1": "I have read and accept the ",
-  "accept_policies_part2": "privacy policies",
+  "accept_policies_part2": " policies",
   "policies_error": "You must accept the privacy policies",
   "Missatge enviat correctament": "Message sent successfully",
   "Error en enviar el missatge": "Error sending the message",
