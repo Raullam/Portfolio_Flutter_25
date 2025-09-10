@@ -100,4 +100,7 @@
   "data_sharing_content": "We do not share, sell, rent, or transfer your personal data to third parties for commercial or advertising purposes. The only exception is the use of the Formspree service for contact form processing, which acts as a data processor under our instructions and with appropriate security guarantees. We may also disclose information when legally required by competent authorities or to protect our legal rights.",
   "data_security_title": "7. Data Security",
   "data_security_content": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction. We use secure HTTPS connections, reliable services for form processing, and follow web development security best practices. However, please note that no method of Internet transmission or electronic storage is 100% secure."
+  ,
+  "concretar_cita_online": "Book an online appointment",
+  "llamar": "Call"
 }

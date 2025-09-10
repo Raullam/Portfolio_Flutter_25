@@ -101,4 +101,7 @@
   "data_sharing_content": "No compartim, venem, lloguem ni transferim les seves dades personals a tercers amb fins comercials o publicitaris. L'única excepció és l'ús del servei Formspree per al processament del formulari de contacte, que actua com a encarregat de tractament sota les nostres instruccions i amb les degudes garanties de seguretat. També podem divulgar informació quan sigui legalment requerit per autoritats competents o per protegir els nostres drets legals.",
   "data_security_title": "7. Seguretat de les Dades",
   "data_security_content": "Implementem mesures tècniques i organitzatives apropiades per protegir les seves dades personals contra accés no autoritzat, alteració, divulgació o destrucció. Utilitzem connexions segures HTTPS, serveis confiables per al processament de formularis i seguim les millors pràctiques de seguretat en el desenvolupament web. No obstant això, ha de tenir en compte que cap mètode de transmissió per Internet o emmagatzematge electrònic és 100% segur."
+  ,
+  "concretar_cita_online": "Concertar cita online",
+  "llamar": "Trucar"
 }

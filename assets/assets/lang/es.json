@@ -95,4 +95,7 @@
   "data_sharing_content": "No compartimos, vendemos, alquilamos ni transferimos sus datos personales a terceros con fines comerciales o publicitarios. La única excepción es el uso del servicio Formspree para el procesamiento del formulario de contacto, que actúa como encargado de tratamiento bajo nuestras instrucciones y con las debidas garantías de seguridad. También podemos divulgar información cuando sea legalmente requerido por autoridades competentes o para proteger nuestros derechos legales.",
   "data_security_title": "7. Seguridad de los Datos",
   "data_security_content": "Implementamos medidas técnicas y organizativas apropiadas para proteger sus datos personales contra acceso no autorizado, alteración, divulgación o destrucción. Utilizamos conexiones seguras HTTPS, servicios confiables para el procesamiento de formularios y seguimos las mejores prácticas de seguridad en el desarrollo web. Sin embargo, debe tener en cuenta que ningún método de transmisión por Internet o almacenamiento electrónico es 100% seguro."
+  ,
+  "concretar_cita_online": "Concretar cita online",
+  "llamar": "Llamar"
 }
